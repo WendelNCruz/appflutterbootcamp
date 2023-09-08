@@ -1,0 +1,6 @@
+package com.wendelcruz.app.appflutterbootcamp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
